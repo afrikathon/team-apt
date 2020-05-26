@@ -1,4 +1,4 @@
-## YOUR PROJECT NAME
+## FUNDABL
 
 A one-liner phrase describing this project or app
 
